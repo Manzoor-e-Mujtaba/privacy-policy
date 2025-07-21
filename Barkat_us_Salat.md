@@ -1,0 +1,51 @@
+# Privacy Policy
+
+**App Name**:  Barkat us Salat
+**Last updated**: Feb 1, 2020
+
+ Barkat us Salat is developed by Manzoor-e-Mujtaba.
+
+This privacy policy explains how we handle your information when you use our apps.
+
+## 1. Information We Do Not Collect
+
+We do **not** collect, store, or share any information. This includes:
+- Name
+- Email address
+- Phone number
+- Location
+- Contacts
+- Photos, videos, or other media
+
+The app is designed to function **without collecting any user-identifiable data**.
+
+## 2. Third-Party Services
+
+Our app may use third-party services however, they are not designed to collect user identifiable information.
+
+Examples include:
+- Google Play Services
+- Firebase (for books to be downloaded)
+
+Please review their privacy policies:
+- [Google Play Services](https://policies.google.com/privacy)
+- [Firebase](https://firebase.google.com/support/privacy)
+
+---
+
+## 3. Children’s Privacy
+
+Our app does not target or knowingly collect data from children under the age of 13.
+
+---
+
+## 4. Changes to This Privacy Policy
+
+We may update this privacy policy from time to time. We encourage you to review this page periodically for any changes.
+
+---
+
+## 5. Contact Us
+
+If you have any questions or concerns about this policy, you can contact us at:  
+📧 mazoor.a.mujtaba@gmail.com
