@@ -4,7 +4,7 @@
 **App Name**:  Manzoor Al Mujtaba Fe Asma illah Wal Mustafa 
 **Last updated**: Feb 1, 2020
 
- Faizan-e-Manzoor-e-Mujtaba is developed by Manzoor-e-Mujtaba.
+ Manzoor Al Mujtaba Fe Asma illah Wal Mustafa is developed by Manzoor-e-Mujtaba.
 
 This privacy policy explains how we handle your information when you use our apps.
 
